@@ -1,3 +1,3 @@
 # lab-apache-spark
 
-This repossitory is created to support learning at Sekolah Big Data Cilsy
+This repository is created to support learning at Sekolah Big Data Cilsy
